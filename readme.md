@@ -42,5 +42,5 @@ The API will start on `http://localhost:8080`.
 | **GET** | `/listings/health` | Returns `{"status":"ok"}`. |
 | **GET** | `/listings` | Search with filters. Results sorted by ID. |
 | **GET** | `/listings/{listing_id}` | Returns full details (includes title/description). |
-
+| **GET** | `/listings/clusters | High-performance clustering. Returns aggregated map points (lat, lon, count) based on a bounding box and filters. |
 ---
