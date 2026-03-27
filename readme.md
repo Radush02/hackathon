@@ -1,4 +1,4 @@
-# Real Estate API - Task 1
+# Real Estate API
 
 This project implements a filtering API as a challenge for the Stone Soup Tech hackathon.
 
